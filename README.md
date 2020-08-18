@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=ramk8055.github.io&style=for-the-badge&url=https%3A%2F%2Framk8055.github.io)](https://ramk8055.github.io/)
 
-## I'm a Creative & Young Software Developer!
+## I'm a Creative Young Software Developer!
 
 - ⚡ I love to code, design, drawing, playing games, watching movies, capturing unique photos and editing photos
 - 🌱 Interest on doing own codes!
