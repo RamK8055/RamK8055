@@ -7,11 +7,11 @@
 
 - ⚡ I love to code, design, drawing, playing games, watching movies, capturing unique photos and editing photos
 - 🌱 Interest on doing own codes!
-- 🥅 Mucho more interest on tech gadgets!
+- 🥅 Much more interest on tech gadgets!
 - 👯 Strong hands-on experiance in Development activities
 ### Connect with me:
-- 📝 LinkedIn : 
-- 📧 Email : ramk8055@hotmail.com
-- 🌐 Website : http://ramk8055.github.io/
+- 📝 **LinkedIn : ** 
+- 📧 **Email : ramk8055@hotmail.com**
+- 🌐 **Website : http://ramk8055.github.io/**
 
 [website]: http://ramk8055.github.io/
