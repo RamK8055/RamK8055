@@ -10,7 +10,7 @@
 - 🥅 Much more interest on tech gadgets!
 - 👯 Strong hands-on experiance in Development activities
 ### Connect with me:
-- 📝 **LinkedIn : ** 
+- 📝 **LinkedIn : https://www.linkedin.com/in/ram-kumar-k22/** 
 - 📧 **Email : ramk8055@hotmail.com**
 - 🌐 **Website : http://ramk8055.github.io/**
 
